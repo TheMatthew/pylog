@@ -1,2 +1,6 @@
 dist/*
 pylog.egg-info/*
+trace_event_pylog.egg-info/*
+tests/__pycache__/*
+trace_event_pylog/__pycache__/*
+trace_events.json
