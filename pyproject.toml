@@ -1,5 +1,5 @@
 [project]
-name = "pylog"
+name = "trace_event_pylog"
 version = "0.1.0"
 description = "Asynchronous trace event logger with JSON output for performance analysis"
 readme = "README.md"
